@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Specialized Doctor",
+    "img": "https://i.ibb.co/KKxgFWY/doctor.jpg",
+    "deccription": "You can find here your specialized doctor"
+  },
+  {
+    "id": 2,
+    "name": "Oparation Theator",
+    "img": "https://i.ibb.co/gV7xdM9/sergary.jpg",
+    "deccription": "Oparation Theator are availabel in this Hospital"
+  },
+  {
+    "id": 3,
+    "name": "Central Pharmacy",
+    "img": "https://i.ibb.co/XSFg3Mn/pharmacy.jpg",
+    "deccription": "You can get your madicine in this Hospital"
+  },
+  {
+    "id": 4,
+    "name": "Clinical Cabin",
+    "img": "https://i.ibb.co/L56RXbr/cabin.jpg",
+    "deccription": "Clinicical cabin are availabel in this hospital"
+  },
+  {
+    "id": 5,
+    "name": "Emergency Service",
+    "img": "https://i.ibb.co/tDwk7hH/emergency.jpg",
+    "deccription": "Emergency Service are availabel in this hospital"
+  },
+  {
+    "id": 6,
+    "name": "Daygonostic centar",
+    "img": "https://i.ibb.co/JcQw8wL/patholpogy.jpg",
+    "deccription": "We have special Dygonostic Center"
+  }
+]
