@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Heart Surgery",
+    "img": "https://i.ibb.co/DfY96Zw/a-baby-s-coming-1442263.jpg",
+    "discription": "Heart Surgery is available in this hospitol"
+  },
+  {
+    "id": 2,
+    "name": "Neuro Surgery",
+    "img": "https://i.ibb.co/nQzXFgx/bannar-1.jpg",
+    "discription": "Neuro Surgery is available in this hospitol"
+  },
+  {
+    "id": 3,
+    "name": "Cesere Oparation",
+    "img": "https://i.ibb.co/m8B30CT/sergary.jpg",
+    "discription": "Cesear Oparation is available in this hospitol"
+  },
+  {
+    "id": 4,
+    "name": "Appendis Oparation",
+    "img": "https://i.ibb.co/KryKr4G/bannar-3.jpg",
+    "discription": "Appendis Oparation is available in this hospitol"
+  }
+]
